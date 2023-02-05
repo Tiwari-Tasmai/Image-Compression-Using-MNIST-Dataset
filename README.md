@@ -1,10 +1,8 @@
-# Image-Compression-Using-MNIST-Dataset
+In a variety of multimedia services, one of the useful techniques is image compression. Digitizing the image requires more bandwidth, which in turn increases the cost of data transmission. Therefore, neural networks are utilized to make effective use of bandwidth. Additionally, Deep Learning has recently advanced to the point where it is being utilized for image compression. Any color in the visible spectrum can be created by combining Red, Green, and Blue (RGB) in various proportions.
 
-Image compression is one of the useful methods in a variety of multimedia services. In order to digitize the image, more bandwidth is required, which in turn raises data transmission costs. As a result, neural networks are utilized to maximize bandwidth usage. In addition, Deep Learning has recently advanced to the point where it can be used to compress images. Red, Green, and Blue (RGB) can be combined in any proportion to produce any color in the visible spectrum.
+Using the MNIST (Modified National Institute of Standards and Technology) dataset, up-sampling and down sampling of an image is performed and I propose a Convolutional Auto encoder neural network for image compression. After up-sampling and down-sampling an RGB image, a compressed image is obtained that measures 28 by 28 pixels with noise. The final image should still have the original size of 28 by 28 after compression.
 
-Up-sampling and down-sampling of an image are carried out with the assistance of the MNIST (Modified National Institute of Standards and Technology) dataset, and I propose a Convolutional Auto encoder neural network for the purpose of image compression. An RGB image is compressed into a noise-filled image that measures 28 by 28 pixels after being up- and down-sampled. After compression, the final image should still be 28 by 28 in size.
-
-The primary objective is to compress an image without significantly affecting its quality.
+The main objective is to compress an image without affecting the quality of image radically.
 
 TECHNOLOGY USED:
 

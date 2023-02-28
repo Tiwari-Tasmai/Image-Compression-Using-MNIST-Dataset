@@ -1,4 +1,4 @@
-#Image-Compression-Using-MNIST-Dataset
+# Image-Compression-Using-MNIST-Dataset
 
 Image compression is one of the useful methods in a variety of multimedia services. In order to digitize the image, more bandwidth is required, which in turn raises data transmission costs. As a result, neural networks are utilized to maximize bandwidth usage. In addition, Deep Learning has recently advanced to the point where it can be used to compress images. Red, Green, and Blue (RGB) can be combined in any proportion to produce any color in the visible spectrum.
 
